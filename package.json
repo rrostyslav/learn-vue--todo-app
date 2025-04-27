@@ -1,6 +1,6 @@
 {
-  "name": "todo--learn-vue",
-  "version": "0.0.0",
+  "name": "learn-vue--todo-app",
+  "version": "0.0.1",
   "private": true,
   "type": "module",
   "scripts": {
